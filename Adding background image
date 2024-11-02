@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color: bisque;
+                background-image: url(p3.jpeg);
+                background-repeat: no-repeat;
+                background-position: center;
+                background-attachment: fixed;
+            }
+            h1{
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+        <h1>background property</h1>
+
+    </body>
+</html>
